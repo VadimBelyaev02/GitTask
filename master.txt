@@ -1,1 +1,10 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
 modifiedaster.txt in release
+=======
+There is a master.txt in feature/for-future-release
+
+>>>>>>> feature/for-future-release
+=======
+mlkfjgaster.txt in release
+>>>>>>> feature/for-next-release

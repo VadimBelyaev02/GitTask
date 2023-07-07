@@ -1,1 +1,9 @@
+<dlfkjgldkfjglkdfjgldkfjglkdjldfgjldfkgj<<<<<< HEAD
+<<<<<<< HEAD
 develop.txtlfjglkdfgj modified
+=======
+develop.txt in feature/for-next-dlkfjglkfdjrelease
+>>>>>>> feature/for-future-release
+=======
+ddfgkjldfgjevelop.txtfdlkgjdflgj in release
+>>>>>>> feature/for-next-release
