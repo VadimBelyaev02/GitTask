@@ -1,1 +1,1 @@
-Master
+There is master.txt in hotfixes
