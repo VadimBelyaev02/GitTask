@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 develop.txtlfjglkdfgj modified
+=======
+develop.txt in feature/for-next-dlkfjglkfdjrelease
+>>>>>>> feature/for-future-release
