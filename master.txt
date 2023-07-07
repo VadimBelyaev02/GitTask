@@ -1,1 +1,1 @@
-There is a master.txt in develop.
+Merging develop and hotfixes
