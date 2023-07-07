@@ -1,1 +1,1 @@
-Master
+There is a master.txt in develop.
